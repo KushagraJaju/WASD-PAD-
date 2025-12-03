@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "XIAO")(type "Legacy")(uri "C:/Users/kusha/Desktop/Courses/Hackclub/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
+  (lib (name "DIP")(type "KiCad")(uri "C:/Users/kusha/Desktop/Courses/Hackclub/OPL_Kicad_Library/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+)
