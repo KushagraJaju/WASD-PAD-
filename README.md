@@ -21,9 +21,9 @@ The board uses MX‑style switches, SK6812‑MINI addressable RGB LEDs, and a 3D
 - 1 × Seeed XIAO RP2040 module  
 - 4 × MX‑style mechanical switches  
 - 4 × SK6812‑MINI addressable RGB LEDs  
-- Decoupling capacitors and 330–470 Ω data resistor (recommended)  
 - Custom PCB (KiCad files in `Hardware/`)
   ![Schematics](Hardware/Schematics.png)
+  ![Schematics](Hardware/Schematics_PCB.png)
 - 3D‑printed case (Fusion 360 / STEP files in `Case/`)
   ![Macropad top view](Case/CaseRender.png)
 
